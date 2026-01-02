@@ -5,6 +5,6 @@ my work which i'm proud of:
 - [Fixed Cupertino Context Menu in Flutter](https://github.com/flutter/flutter/pull/144883)
 
 products i built:
-- [Hardest Focus App: Pocket](https://hardestfocusapp.com) ($100 MRR)
+- [Hardest Focus App: Pocket](https://hardestfocusapp.com)
 - [Folksable: Habit Accountability](https://folksable.com) (6K Users from 120+ Countries)
   > as seen in [Reminder.media](https://reminder.media/post/15-poleznykh-ssylok-vypusk-32) and [Bug.hr](https://www.bug.hr/appdana/folksable-drustvena-platforma-za-stvaranje-zdravih-navika-ili-rjesavanje-losih-40999)
